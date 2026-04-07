@@ -23,4 +23,4 @@
 ## 📫 Contato
 
 * [👉 Clique aqui para acessar meu LinkedIn](https://www.linkedin.com/in/fernanda-rubio-69402838b?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
-* [📩 Clique aqui para me enviar um email](mailto:fernanda.rubio.mello@gmail.com)
+* [📩 Clique aqui para enviar um email](mailto:fernanda.rubio.mello@gmail.com)
