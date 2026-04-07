@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou a Fernanda
 
-🎓 Estudante de Estatística / Dados
+🎓 Estudante de Estatística e Ciência de Dados - USP
 📊 Interesse em análise de dados e programação
 🐍 Experiência com Python
 
